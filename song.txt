@@ -7,3 +7,7 @@ add new line more
 from the lines
 some content
 new couplet
+
+new song 
+new part
+next part
